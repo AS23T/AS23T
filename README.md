@@ -18,4 +18,4 @@ Learning about backend and frontend in general, game prototyping, etc.
 - ActionScript 2.0 and 3.0 (Examples: Flash, Adobe, etc.)
 - JSON (Examples: configurations in files, etc.)
 
-## Making interesting shit.
+## Learning interesting shit.

@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, my user name is Astral
 
-<!--
-**AS23T/AS23T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student in IPVG (Institute Professional Virginio Gómez)
+Building just small projects/Labs for now
+Interested in video game development, Machine Learning, LLMs, etc.
+Learning about backend and frontend in general, game prototyping, etc.
 
-Here are some ideas to get you started:
+## Languages ​​used and interested
+- HTML, CSS, JavaScript (Examples: App Web Pages, Razor Pages, etc.)
+- Python (Examples: Qt v5 or PyQt5, PyAutoGUI, etc.)
+- C# (Examples: Unity, Windows Forms, Razor Pages, .NET, etc.)
+- Java (Examples: Swing, etc.)
+- SQL, MySQL (Examples: Oracle APEX, etc.)
+- BDF Programming for PLC (Examples: M3 Soft, etc.)
+- C/C++ (Examples: Arduino, SDL3, etc.)
+- GDScript (Examples: Godot.)
+- Bash and Batch (Examples: Linux, Powershell, Windows, etc.)
+- ActionScript 2.0 and 3.0 (Examples: Flash, Adobe, etc.)
+- JSON (Examples: configurations in files, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Making interesting shit.

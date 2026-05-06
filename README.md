@@ -12,7 +12,7 @@ Learning about backend and frontend in general, game prototyping, etc.
 - Java (Examples: Swing, etc.)
 - SQL and MySQL (Examples: Oracle APEX, etc.)
 - BDF Programming for PLC (Examples: M3 Soft, etc.)
-- C/C++ (Examples: Arduino, SDL3, etc.)
+- C/C++ (Examples: Arduino, SDL, etc.)
 - GDScript (Examples: Godot.)
 - Bash and Batch (Examples: Linux, Powershell, Windows, etc.)
 - ActionScript 2.0 and 3.0 (Examples: Flash, Adobe, etc.)

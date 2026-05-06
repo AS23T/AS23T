@@ -6,11 +6,11 @@ Interested in video game development, Machine Learning, LLMs, etc.
 Learning about backend and frontend in general, game prototyping, etc.
 
 ## Languages ​​used and interested
-- HTML, CSS, JavaScript (Examples: App Web Pages, Razor Pages, etc.)
+- HTML, CSS, JavaScript (Examples: Bootstrap5, Razor Pages, etc.)
 - Python (Examples: Qt v5 or PyQt5, PyAutoGUI, etc.)
 - C# (Examples: Unity, Windows Forms, Razor Pages, .NET, etc.)
 - Java (Examples: Swing, etc.)
-- SQL, MySQL (Examples: Oracle APEX, etc.)
+- SQL and MySQL (Examples: Oracle APEX, etc.)
 - BDF Programming for PLC (Examples: M3 Soft, etc.)
 - C/C++ (Examples: Arduino, SDL3, etc.)
 - GDScript (Examples: Godot.)

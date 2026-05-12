@@ -1,6 +1,6 @@
 # Hello, my user name is Astral
 
-Computer science student in IPVG (Institute Professional Virginio Gómez)
+Computer science student in IPVG (Institute Professional Virginio Gómez).
 Building just small projects/Labs for now
 Interested in video game development, Machine Learning, LLMs, etc.
 Learning about backend and frontend in general, game prototyping, etc.

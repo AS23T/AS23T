@@ -2,7 +2,7 @@
 
 Computer science student in Institute Professional Virginio Gómez.
 Building just small projects/Labs for now.
-Interested in video game development, Machine Learning, LLMs, etc.
+Interested in video game development and many things (born curious).
 Learning about backend and frontend in general, game prototyping, etc.
 
 ## Languages ​​used and interested
@@ -17,5 +17,6 @@ Learning about backend and frontend in general, game prototyping, etc.
 - Bash and Batch (Examples: Linux, Powershell, Windows, etc.)
 - ActionScript (Examples: Flash, Adobe, AS3, AS2, etc.)
 - JSON (Examples: configurations in files, etc.)
+- What's next? 0.o
 
 ## Learning interesting shit.

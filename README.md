@@ -10,12 +10,12 @@ Learning about backend and frontend in general, game prototyping, etc.
 - Python (Examples: Qt v5 or PyQt5, PyAutoGUI, etc.)
 - C# (Examples: Unity, Windows Forms, Razor Pages, .NET, etc.)
 - Java (Examples: Swing, etc.)
-- SQL and MySQL (Examples: Oracle APEX, etc.)
+- SQL Languages (Examples: Oracle APEX, MySQL, SQLite, etc.)
 - BDF Programming (Examples: M3 Soft, PLC, etc.)
 - C/C++ (Examples: Arduino, SDL, etc.)
 - GDScript (Examples: Godot.)
 - Bash and Batch (Examples: Linux, Powershell, Windows, etc.)
-- ActionScript 2.0 and 3.0 (Examples: Flash, Adobe, etc.)
+- ActionScript (Examples: Flash, Adobe, AS3, AS2, etc.)
 - JSON (Examples: configurations in files, etc.)
 
 ## Learning interesting shit.

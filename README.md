@@ -1,6 +1,6 @@
 # Hello, my user name is Astral
 
-Computer science student in Institute Professional Virginio Gómez.
+Computer Science or Ingeniera en Informatica student in Instituto Profesional Virginio Gómez.
 Building just small projects/Labs for now.
 Interested in video game development and many things (born curious).
 Learning about backend and frontend in general, etc.

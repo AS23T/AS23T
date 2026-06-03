@@ -3,7 +3,7 @@
 Computer science student in Institute Professional Virginio Gómez.
 Building just small projects/Labs for now.
 Interested in video game development and many things (born curious).
-Learning about backend and frontend in general, game prototyping, etc.
+Learning about backend and frontend in general, etc.
 
 ## Languages ​​used and interested
 - HTML, CSS, JavaScript (Examples: Bootstrap5, Razor Pages, etc.)

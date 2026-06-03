@@ -21,5 +21,5 @@ Learning about backend and frontend in general, etc.
 
 ## Learning interesting shit.
 
-If I could just program with or without pressure, I would definitely do it. 
+If I could just program with or without pressure, tools or not tools, I would definitely do it. 
 ENA: Dream BBQ - "GOD knows the rest"

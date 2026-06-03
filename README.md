@@ -20,3 +20,6 @@ Learning about backend and frontend in general, etc.
 - What's next? 0.o
 
 ## Learning interesting shit.
+
+If I could just program with or without pressure, I would definitely do it. 
+ENA: Dream BBQ - "GOD knows the rest"

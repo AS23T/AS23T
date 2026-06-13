@@ -5,6 +5,8 @@ Building just small projects/Labs for now.
 Interested in video game development and many things (born curious).
 Learning about backend and frontend in general, etc.
 
+                      (ENG/ESP)
+
 ## Languages ​​used and interested
 - HTML, CSS, JavaScript (Examples: Bootstrap5, Razor Pages, etc.)
 - Python (Examples: Qt v5 or PyQt5, PyAutoGUI, etc.)

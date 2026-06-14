@@ -28,7 +28,7 @@ If I could just program with or without pressure, tools or not tools, I would de
 ENA: Dream BBQ - "GOD knows the rest."
 
 <p align="center">
-  <a href="https://media1.tenor.com/m/egiQgazkY14AAAAd/ena-dream-bbq-ena.gif">
+  <a href="https://www.youtube.com/watch?v=RrJNlSvo0U0">
     <img src="https://media1.tenor.com/m/JLtAc4KarD0AAAAC/ena-ena-dream-bbq.gif" alt="ENA Dream BBQ">
-  <a/>
+  </a>
 </p>

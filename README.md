@@ -11,7 +11,7 @@ Learning about backend and frontend development in general, and about many progr
 ---
 If I could just program with or without pressure, tools or not tools, I would definitely do it.
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=bDksRA4GepU">
+  <a href="https://www.youtube.com/watch?v=cUjB6cFPFWs">
     <img src="https://media1.tenor.com/m/JLtAc4KarD0AAAAC/ena-ena-dream-bbq.gif" alt="ENA Dream BBQ">
   </a>
 </p>

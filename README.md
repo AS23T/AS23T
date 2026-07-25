@@ -6,6 +6,8 @@ Building just small projects/Labs for now.
 Interested in video game development and many things (born curious).
 Learning about backend and frontend development in general, and about many programming languages.
 
+Electronics and Electrical Technician, soon-to-be Computer Engineer, artist and creator.
+
   (ENG/ESP)
 
 ---

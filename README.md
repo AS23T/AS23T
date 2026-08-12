@@ -13,7 +13,7 @@ Electronics and Electrical Technician, artist and creator, soon-to-be Computer E
 ---
 If I could just program with or without pressure, tools or not tools, I would definitely do it.
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=GFGPSx6cPN0">
+  <a href="https://www.youtube.com/watch?v=LEnQc2v9tHM">
     <img src="https://media1.tenor.com/m/JLtAc4KarD0AAAAC/ena-ena-dream-bbq.gif" alt="ENA Dream BBQ">
   </a>
 </p>

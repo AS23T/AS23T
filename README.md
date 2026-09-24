@@ -3,7 +3,7 @@
 ## I'm
 Ingeniera en Informatica student in Instituto Profesional Virginio Gómez.
 Building just small projects/Labs for now.
-Interested in video game development and many things (born curious).
+Interested in video game development, cybersecurity and many things (born curious).
 Learning about backend and frontend development in general, and about many programming languages.
 
 Electronics and Electrical Technician, artist and creator, soon-to-be Computer Engineer.

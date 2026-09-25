@@ -2,13 +2,12 @@
 ---
 ## I'm
 Ingeniera en Informatica student in Instituto Profesional Virginio Gómez.
-Building just small projects/Labs for now.
 Interested in video game development, cybersecurity and many things (born curious).
-Learning about backend and frontend development in general, and about many programming languages.
+Learning about backend and frontend development in general, and about many programming (and format) languages.
 
-Electronics and Electrical Technician, artist and creator, soon-to-be Computer Engineer.
+Electronics and Electrical Technician, Artist and Creator, soon-to-be Computer Engineer.
 
-  (ENG/ESP)
+  ENG/ESP User
 
 ---
 If I could just program with or without pressure, tools or not tools, I would definitely do it.

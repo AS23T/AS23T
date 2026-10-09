@@ -7,10 +7,11 @@ Learning about backend and frontend development in general, and about many progr
 
 Electronics and Electrical Technician, Artist and Creator, soon-to-be Computer Engineer.
 
-  ENG/ESP User
+  ENG/ESP - Bilingual user
 
 ---
 If I could just program with or without pressure, tools or not tools, I would definitely do it.
+### Image source: ENA Dream BBQ
 <p align="center">
   <a href="https://www.youtube.com/watch?v=yuZIG_55jRM">
     <img src="https://media1.tenor.com/m/JLtAc4KarD0AAAAC/ena-ena-dream-bbq.gif" alt="ENA Dream BBQ">

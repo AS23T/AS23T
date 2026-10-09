@@ -1,4 +1,4 @@
-# Hello, my user name is Astral
+# Hello, my user name is Astral A.K.A. AstralBlood
 ---
 ## I'm
 Ingeniera en Informatica student in Instituto Profesional Virginio Gómez.

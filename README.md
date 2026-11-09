@@ -6,7 +6,7 @@ Interested in video game development, cybersecurity and many things (curioso y a
 
 Electronics and Electrical Technician, Artist/Creator, soon-to-be Computer Engineer.
 
-  ENG/ESP - Bilingual user
+  ENG/ESP - Bilingual
 
 ---
 If I could just program with or without pressure, tools or not tools, I would probably do it.

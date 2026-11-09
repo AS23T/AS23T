@@ -1,16 +1,15 @@
-# Hello, my user name is Astral A.K.A. AstralBlood
+# Hello, my user name is AstralBlood
 ---
 ## I'm
-Ingeniera en Informatica student in Instituto Profesional Virginio Gómez.
-Interested in video game development, cybersecurity and many things (born curious).
+Interested in video game development, cybersecurity and many things (curioso y aburrido).
 Learning about backend and frontend development in general, and about many programming (and format) languages.
 
-Electronics and Electrical Technician, Artist and Creator, soon-to-be Computer Engineer.
+Electronics and Electrical Technician, Artist/Creator, soon-to-be Computer Engineer.
 
   ENG/ESP - Bilingual user
 
 ---
-If I could just program with or without pressure, tools or not tools, I would definitely do it.
+If I could just program with or without pressure, tools or not tools, I would probably do it.
 ### Image source: ENA Dream BBQ
 <p align="center">
   <a href="https://www.youtube.com/watch?v=WtDb-_O82D8">

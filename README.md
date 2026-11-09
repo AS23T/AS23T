@@ -1,7 +1,7 @@
 # Hello, my user name is AstralBlood
 ---
 ## I'm
-Interested in video game development, cybersecurity and many things (curioso y aburrido).
+Interested in video game development, cybersecurity and many things (curioso y aburrido de la vida).
 Learning about backend and frontend development in general, and about many programming (and format) languages.
 
 Electronics and Electrical Technician, Artist/Creator, soon-to-be Computer Engineer.

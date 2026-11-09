@@ -2,8 +2,7 @@
 ---
 ## I'm
 Interested in video game development, cybersecurity and many things (curioso y aburrido de la vida).
-0.o
-Learning about backend and frontend development in general, and about many programming (and format) languages.
+  Learning about backend and frontend development in general, and about many programming (and format) languages.
 
 Electronics and Electrical Technician, Artist/Creator, soon-to-be Computer Engineer.
 
